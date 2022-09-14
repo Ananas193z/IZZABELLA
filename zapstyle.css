@@ -1,0 +1,147 @@
+*{
+	max-width: 2000px;
+	margin: 0 auto;
+	
+	padding: 0;
+	top: 0;
+	left: 0;
+}
+.main{
+	max-width: 2000px;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+	height: 100vh;
+	background-color: #FFFFFF; 
+}
+.logo-main1{
+	display: inline;
+	
+	position: relative;
+	
+
+	top:-0%;
+	padding-bottom: 2%;
+
+	
+	
+	text-align: center;
+}
+.logo-main1 h1{
+	
+
+	
+	
+	font-size: 2rem;
+	text-align: center;
+}
+
+
+.logo-main1{
+	background-color: #C0C2C4;
+	
+	position: relative;
+	display: block;
+	border:10px;
+	height: 5em;
+
+	
+
+	
+	text-align: center;
+
+}
+.logo-main1 form{
+	text-align: center;
+	
+	
+}
+.logo-main1 button{
+	
+	font-size: 2rem;
+	border-radius: 10px;
+}
+
+
+
+.logo-main1 ul{
+	margin:10px;
+}
+.logo-main1 li{
+	
+	display: inline;
+
+}
+.logo-main1 a{
+	
+
+	display: inline-block;
+	width: 10em;
+	padding: 10px;
+	background-color: #f4f4f4;
+	border: 5px;
+	text-align: center;
+	
+}
+.form{
+	display: block;
+	
+	
+	size: 50%;
+	margin: 0 auto;
+	position: relative;
+	margin-top: 10%;
+	left: 0%;
+	text-align: center;
+	border: 10px;
+}
+input{
+	
+	font-size: 2em;
+}
+
+.form button{
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 13em;
+	height: 3em;
+
+	
+	padding: 10px;
+	font-size: 30px;
+
+	background-color: #00ff00;
+	text-align: center;
+
+	color: #000000;
+	border: 1px solid #000;
+	border-radius: 4px;
+
+	
+}
+
+.niz{
+	border:10px;
+	max-width: 2000px;
+	margin: 0 auto;
+	position: relative;
+	top: 20%;
+	width: 100%;
+	height: 20vh;
+	background-color: #C0C2C4; 
+}
+.niz h1{
+	display: inline;	
+}
+.niz h1{
+	font-size: 1.7em;
+	text-align: center;
+
+}
+.niz a{
+	font-size: 1.5em;
+	text-decoration: none
+
+}
